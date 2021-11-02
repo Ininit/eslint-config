@@ -1,6 +1,6 @@
 {
   "name": "@ininit/eslint-config-basic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A basic ESLint configuration",
   "license": "MIT",
   "author": "ininit <meininit@gmail.com> (https://github.com/ininit/)",

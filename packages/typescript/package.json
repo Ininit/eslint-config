@@ -1,6 +1,6 @@
 {
   "name": "@ininit/eslint-config-ts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A typescript ESLint configuration",
   "license": "MIT",
   "author": "ininit <meininit@gmail.com> (https://github.com/ininit/)",
@@ -15,7 +15,7 @@
     "eslint": ">=8.0.0"
   },
   "dependencies": {
-    "@ininit/eslint-config-basic": "^0.0.0",
+    "@ininit/eslint-config-basic": "0.0.1",
     "@typescript-eslint/eslint-plugin": "^5.3.0",
     "@typescript-eslint/parser": "^5.3.0"
   },
